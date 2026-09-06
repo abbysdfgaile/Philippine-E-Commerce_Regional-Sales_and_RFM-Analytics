@@ -26,9 +26,9 @@ This project evaluates retail transactional performance for an e-commerce busine
 ## 📁 Dataset Architecture & SQL Transformation
 
 The dataset was AI-generated using Mockaroo with the following schema:
-  orders (order_id, customer_id, order_date, order_status)
-  order_items (order_id, product_id, unit_price, quantity)
-  customers (customer_id, signup_date, region)
+  * orders (order_id, customer_id, order_date, order_status)
+  * order_items (order_id, product_id, unit_price, quantity)
+  * customers (customer_id, signup_date, region)
 
 The data pipeline transitions raw transactional data into clean, structured database views optimized for reporting:
 
