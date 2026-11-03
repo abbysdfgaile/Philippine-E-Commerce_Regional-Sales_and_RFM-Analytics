@@ -86,6 +86,12 @@ The Power BI report utilizes two primary views:
 * **Page 1: Executive Revenue & Regional Overview:** High-level KPI cards, monthly dual-axis revenue comparison chart, regional donut breakdown, and product performance leaderboard.
 * **Page 2: RFM Customer Behavioral Segmentation:** Customer recency, frequency, and monetary spend tier donut chart.
 
+<div align="center">
+ <img width="765" height="433" alt="image" src="https://github.com/user-attachments/assets/27b51881-b1d8-4c38-8acd-6b311ebe0478" />
+
+<img width="1023" height="442" alt="image" src="https://github.com/user-attachments/assets/a50ec26a-5c13-49ef-ae57-3a90c1568e77" />
+</div>
+
 ---
 
 ## 💡 Strategic Business Recommendations
